@@ -1,0 +1,101 @@
+#services{
+    flex-direction: column;
+    margin: 36px;
+    
+}
+#services .box {
+    width: 447px;
+    height: 376px;
+    padding: 20px;
+    margin: 125px;
+    margin-left: -15px;
+    margin-top: -86px;
+}
+
+
+#head2::after{
+    top: 122%;
+}
+#head2 {
+    padding-left: 325px;
+    margin-top: -116px;
+    margin-left: 42px;
+}
+
+#home {
+    padding: 305px 0px;
+    font-size: 1.8rem;                                        
+    height: 602px;
+    margin: -417px;
+    margin-left: 48px;
+    margin-top: -345px;
+}
+
+#home::before {
+    height: 188%;
+    width: 383%;
+    margin-top: -477px;
+}
+.h-primary {
+    margin-top: 60px;
+    margin: 69px;
+    padding-left: 163px;
+    margin-left: 178px;
+}
+
+#logo img {
+    width: 170px;
+    height: 170px;
+    padding-inline: 330px;
+}
+
+
+#header ul li {
+    margin: 3px;
+    font-size: 1.7rem;
+    padding-top: 166px;
+    padding-inline: 33px;
+    width: 50px;
+}
+
+
+.h-primary::after {
+    width: 20px;
+    top: 82%;
+    left: 63%;
+    bottom: 41px;
+}
+#head2::after {
+    left: 100%;
+    top: 109%;
+    width: 11px;
+    border-width: 8px 37px 3px;
+}
+#our-clients::before {
+    content: "";
+    background: url(../Images/bg.jpg);
+    position: absolute;
+    height: 78%;
+    width: 306%;
+    opacity: 0.5;
+    z-index: -1;
+    margin-top: 119px;
+    margin-top: 141px;
+}
+.footer {
+    background-color: #303738;
+    padding: 70px 69px;
+    margin: 112px;
+    margin-inline: -3px;
+    margin-bottom: -3px;
+    width: 269%;
+}
+
+.clients-item img {
+    height: 111px;
+    padding: 19px;
+    cursor: pointer;
+    padding-inline: 0px;
+    margin-inline: -251px;
+    padding-left: 474px;
+}
